@@ -1,33 +1,40 @@
-# Python Practice Projects
+# 🐍 Python Practice & Data Analysis
 
-This repository contains my Python practice projects.
+Welcome to my Python learning journey.
 
-## Projects
+## 📊 Projects included:
 
-### 1. Print Even Numbers
-Print even numbers from 2 to 20 using Python.
+### 1️⃣ Even Numbers Script
 
-File:
-even_numbers.py
+Prints even numbers from 2 to 20 using Python.
 
----
+### 2️⃣ Sum Numbers Script
 
-### 2. Sum Numbers
-Calculate the sum of numbers in a list.
+Calculates total sum of numbers using Python.
 
-File:
-sum_numbers.py
+### 3️⃣ Excel Data Analysis Project
 
----
+Using:
 
-### 3. First Python Script
+* Python
+* Pandas
+* Excel
 
-File:
-main.py
+This project analyzes employee salary data and calculates:
 
----
+* Total salary
+* Average salary
+* Maximum salary
+* Minimum salary
 
-## Author
+## 🛠 Tools Used
 
-Nosa
-Future Data Analyst
+* Python
+* Pandas
+* PyCharm
+* Excel
+
+## 👩‍💻 Author
+
+Aspiring Data Analyst | Python Developer | FlutterFlow Developer
+
